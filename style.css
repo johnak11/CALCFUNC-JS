@@ -1,0 +1,62 @@
+.whole{
+    border: 6px solid black;
+    background-color: rgba(0, 0, 0, 0.781);
+    border-radius: 50px;
+    padding: 15px;
+    width: fit-content;
+}
+
+.box{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 17px;
+    
+}
+
+.rowa button{
+    border: none;
+    border-radius: 5px;
+    background-color: bisque;
+    padding: 15px;
+    margin-left: 7px;
+}
+
+.rowb button{
+    border: none;
+    border-radius: 5px;
+    background-color: turquoise;
+    padding: 15px;
+    margin-left: 7px;
+}
+
+.rowc button{
+    border: none;
+    border-radius: 5px;
+    background-color: turquoise;
+    padding: 15px;
+    margin-left: 7px;
+}
+
+.rowd button{
+    border: none;
+    border-radius: 5px;
+    background-color: turquoise;
+    padding: 15px;
+    margin-left: 7px;
+}
+
+.rowe button{
+    border: none;
+    border-radius: 5px;
+    background-color: turquoise;
+    padding: 15px;
+    margin-left: 7px;
+}
+
+.rowf button{
+    border: none;
+    border-radius: 5px;
+    background-color: bisque;
+    padding: 15px;
+    margin-left: 84px;
+}
